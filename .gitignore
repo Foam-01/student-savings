@@ -1,0 +1,5 @@
+
+Frontend/node_modules/
+Backend/bin/
+Backend/obj/
+.env
