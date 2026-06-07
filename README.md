@@ -71,6 +71,13 @@ A full-stack Web Application designed to manage and promote financial literacy a
 ## 🖥️ Screenshots
 *(แปะภาพถ้ามี)*
 
+## 🔗 Local Access Links (Quick Shortcuts)
+
+Once you have started both the Backend and Frontend servers locally on your machine, you can use these quick links to access the system:
+
+- 💻 **Frontend Web UI:** [http://localhost:5173](http://localhost:5173) (User Interface)
+- ⚙️ **Backend Web API:** [http://localhost:5000](http://localhost:5000) (Core Server Endpoint)
+- 🛠️ **Swagger API Test Bench:** [http://localhost:5000/swagger/index.html](http://localhost:5000/swagger/index.html) (Interactive API Documentation)
 
 ## 🔐 Default Credentials
 
