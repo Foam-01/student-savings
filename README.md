@@ -69,6 +69,7 @@ A full-stack Web Application designed to manage and promote financial literacy a
 
 ## 📁 Detailed Project File Tree
 
+```bash
 StudentSavingsSystem/
 ├── Backend/
 │   ├── Controllers/
@@ -206,6 +207,7 @@ StudentSavingsSystem/
 ├── package.json
 ├── vite.config.js
 └── index.html
+```
 
 ## 🔐 Default Credentials
 
