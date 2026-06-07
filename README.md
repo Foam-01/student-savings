@@ -102,7 +102,11 @@ A full-stack Web Application designed to manage and promote financial literacy a
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/a94470bf-07bb-430f-88e4-0f26fdb1948b" />
 
 
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/64a49638-bc94-4a6d-841e-d6501acd702c" />
 
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/d4271f70-3761-400d-89c6-90bb8dbcb4b3" />
+<img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/75fda012-623d-499b-99a0-bdc4baee31c8" />
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/5bf96c5f-d264-40a8-9e96-a602ace08920" />
 
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/51a1224d-e370-42ca-94cb-b7d3b004ab58" />
 <img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/4bf454ea-7d64-4bd2-9401-a4298310bc02" />
