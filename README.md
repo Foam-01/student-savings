@@ -2,6 +2,28 @@
 
 A full-stack Web Application designed to manage and promote financial literacy and savings habits among students in schools or classrooms. Built with a modern tech stack, the system supports QR Code scanning for instant transactions, a multi-bucket budgeting framework (Envelope System), and an intelligent, data-driven financial advice generator (Smart Insights Engine).
 
+
+---
+
+## 🔧 Tech Stack
+
+### 💻 Backend (.NET 8 Web API)
+- **Framework:** .NET 8.0 SDK (C#)
+- **ORM:** Entity Framework Core (EF Core)
+- **Database:** PostgreSQL via Npgsql Client Library
+- **Authentication:** JWT Bearer Token (JSON Web Tokens)
+- **API Documentation:** Swagger / OpenAPI UI
+
+### 🎨 Frontend (React)
+- **Framework:** React 18 powered by Vite Bundler
+- **Routing:** React Router DOM v6
+- **HTTP Client:** Axios with centralized Authorization Token Interceptors
+- **Styling:** Bootstrap 5 blended with Custom Vanilla CSS for premium gradients and glassmorphism styling
+- **Data Visualization:** Chart.js + react-chartjs-2
+- **Popups & Dialogs:** SweetAlert2
+- **Icon Pack:** Lucide React Icons
+- **Utilities:** QRCode.react for programmatic client-side QR generation
+
 ---
 
 ## 📋 Key Features
@@ -44,28 +66,23 @@ A full-stack Web Application designed to manage and promote financial literacy a
 - **Audit Activity Log:** Automatically keeps a record of all critical events triggered by students and teachers—including logins, QR scans, and transactions—mapped with client IP addresses for complete accountability.
 - **In-App Notification Center:** A dedicated bell icon alert system notifying users of successful transactions, transfers, or account security events.
 
----
 
-## 🔧 Tech Stack
 
-### 💻 Backend (.NET 8 Web API)
-- **Framework:** .NET 8.0 SDK (C#)
-- **ORM:** Entity Framework Core (EF Core)
-- **Database:** PostgreSQL via Npgsql Client Library
-- **Authentication:** JWT Bearer Token (JSON Web Tokens)
-- **API Documentation:** Swagger / OpenAPI UI
+## 🖥️ Screenshots
+*(แปะภาพถ้ามี)*
 
-### 🎨 Frontend (React)
-- **Framework:** React 18 powered by Vite Bundler
-- **Routing:** React Router DOM v6
-- **HTTP Client:** Axios with centralized Authorization Token Interceptors
-- **Styling:** Bootstrap 5 blended with Custom Vanilla CSS for premium gradients and glassmorphism styling
-- **Data Visualization:** Chart.js + react-chartjs-2
-- **Popups & Dialogs:** SweetAlert2
-- **Icon Pack:** Lucide React Icons
-- **Utilities:** QRCode.react for programmatic client-side QR generation
 
----
+## 🔐 Default Credentials
+
+The API automatically seeds mock runtime entities into the database on its initial launch. Use the following profiles for evaluation:
+
+| User Role | Username | Password | Notes |
+| :--- | :--- | :--- | :--- |
+| **Teacher / Admin** | `admin` | `admin123` | Full administrative rights (Deposits, Withdrawals, Student Profiling, Configurations) |
+| **Demo Student** | `student1` to `student5` | `student123` | e.g., `student1` (View histories, allocate buckets, map milestones) |
+
+*(Note: New student profiles can be registered dynamically via the "Manage Students" panel when logged in as an Admin)*
+
 
 ## 📁 Detailed Project File Tree
 
@@ -209,16 +226,7 @@ StudentSavingsSystem/
 └── index.html
 ```
 
-## 🔐 Default Credentials
 
-The API automatically seeds mock runtime entities into the database on its initial launch. Use the following profiles for evaluation:
-
-| User Role | Username | Password | Notes |
-| :--- | :--- | :--- | :--- |
-| **Teacher / Admin** | `admin` | `admin123` | Full administrative rights (Deposits, Withdrawals, Student Profiling, Configurations) |
-| **Demo Student** | `student1` to `student5` | `student123` | e.g., `student1` (View histories, allocate buckets, map milestones) |
-
-*(Note: New student profiles can be registered dynamically via the "Manage Students" panel when logged in as an Admin)*
 
 ---
 
