@@ -69,7 +69,51 @@ A full-stack Web Application designed to manage and promote financial literacy a
 
 
 ## 🖥️ Screenshots
-*(แปะภาพถ้ามี)*
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/e4333a80-2f64-4d6f-845c-6691256bf99c" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/4a71b176-1401-4b2c-a433-ce1943919901" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/19abcfb0-3cf6-449a-9f1e-a4dbd94820c5" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/ce38ac3c-bca8-45ed-9386-d74268e67189" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7faebee9-893b-4423-8837-6e87a3880a79" />
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/b028d0ff-7648-41a0-bbf7-f9ea42f25c29" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/6e001652-175e-459d-b351-c4c0ec0a1419" />
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/06d8cb5b-475f-463a-857f-ff7217135bdd" />
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/61eba81b-a832-44f8-9c2e-c1f511ab9140" />
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/8fc3da5e-8903-4104-8bd2-3cec5b65ffbc" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/4d782b76-21c0-4061-8c1e-600d4800cc3b" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/8e044cb6-1d26-49b7-91e0-d249d697b475" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/c5686522-2fe8-4d91-86aa-84df2246727c" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/f2158166-b8e8-401f-bc05-70e9fe1a9418" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/1263d565-eb66-4ea8-b03c-e476c07905e8" />
+<img width="1914" height="922" alt="image" src="https://github.com/user-attachments/assets/ae7001c6-c3d1-4062-b08d-4e486ee09a7b" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/06e57658-c62e-41a5-933e-091396e9dcfa" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/82d8cd34-5fe4-4590-9b06-11a876cc6146" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/a7ad9fb7-6055-4bd5-9559-64a6863c84d3" />
+<img width="1905" height="903" alt="image" src="https://github.com/user-attachments/assets/905cc656-6b68-4353-beae-0564a01e429b" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/9e57e9c7-ddab-4abd-b624-2646e28a120c" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/ce8fb8ec-834e-4f8f-b17e-aa4fdc7d535a" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/407ff956-5760-4e0d-8966-ccdc860c114d" />
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/1d49df3e-3e0a-4735-95b5-7893b171ca4f" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/2b3bb90c-6eea-4377-bdf5-ed130d3a981c" />
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/08f69b4f-7721-45f1-b6be-b48c17e0cd57" />
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/15f948d6-4ebc-4329-a94c-574f7868f28c" />
+<img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/39cdd189-7293-4a69-828d-76b0fbb4b43b" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/52f7231c-66a5-47f1-accb-9bda3a9047b3" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/f41e8954-21f4-40dd-b764-f7b11d51b3c7" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/a94470bf-07bb-430f-88e4-0f26fdb1948b" />
+
+
+
+
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/51a1224d-e370-42ca-94cb-b7d3b004ab58" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/4bf454ea-7d64-4bd2-9401-a4298310bc02" />
+<img width="1907" height="960" alt="image" src="https://github.com/user-attachments/assets/bc7b4e5e-2ab1-4bc6-abc5-8253eb740a69" />
+<img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/e8f59877-0a42-4f9e-8319-8f57b3811402" />
+<img width="1914" height="972" alt="image" src="https://github.com/user-attachments/assets/8bc461d4-708a-4916-810d-b5cc6b46be36" />
+
+
+
+
+
 
 ## 🔗 Local Access Links (Quick Shortcuts)
 
